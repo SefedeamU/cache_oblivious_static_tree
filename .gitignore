@@ -1,0 +1,12 @@
+build/
+cmake-build-*/
+.idea/
+
+*.o
+*.a
+*.so
+*.dll
+*.exe
+
+results.csv
+hardware.txt
